@@ -1,4 +1,4 @@
-# Hybrid_Transformer_CT_ray_reconstruction
+# Novel Hybrid Transformer for CT ray reconstruction
 Reconstructing Low Radiation CT Scans using Transformer and UNet Res Based Neural Networks
 
 Research Problem and Real World impact

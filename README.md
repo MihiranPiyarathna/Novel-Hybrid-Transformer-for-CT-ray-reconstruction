@@ -115,5 +115,5 @@ In practice, we found that even a well-tuned CGLS or Landweber reconstructor cou
 
 ## 7 REFERENCES
 
-Pls. find a detailed list of references in my paper <here>
-Inspired mainly by Restormer: Zamir, S.W. et al. (2022)
+Pls. find a detailed list of references in my paper 'link_here'
+* Inspired by Restormer: Zamir, S.W. et al. (2022)
